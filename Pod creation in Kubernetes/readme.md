@@ -49,4 +49,6 @@ bash
 Copy code
 kubectl get pods
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/cd96d7b8-52b2-46d4-a098-d45c6faf160b" />
+
 
